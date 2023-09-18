@@ -1,2 +1,2 @@
-# 4IT427-ReactApp
-React course work - 4IT427
+# reactJS_App
+Klon aplikace Toggl pro předmět 4IT427 - Základy programování v React.js
