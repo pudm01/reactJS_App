@@ -1,0 +1,9 @@
+// Filtrování podle uživatele na projects
+// TimeEntries display & CRUD
+	- DELETE (potřebuje Id + user_name)
+// Reporty - per projekt výkazy času per day (daisyui accordion)
+
+// deploy přes vercel.com
+
+
+{"id":77,"task":"oopsie daisy","start":"2023-09-15T09:44:00.000Z","end":"2023-09-15T09:44:00.000Z","project_id":4,"project_name":"Task12"}
